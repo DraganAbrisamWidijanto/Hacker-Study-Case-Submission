@@ -13,7 +13,7 @@ This API has been developed using the following technologies:
   - **Version**: (10.4.27)
 - **Programming Language**: PHP
   - **Version**: (8.2.0)
-  - 
+  
 ### Database Configuration
 1. **Database Name**: `book_management`
 2. **Table Structure**: The main table for this API is `books`, with the following fields:
